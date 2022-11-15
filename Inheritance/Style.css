@@ -1,0 +1,67 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    width: 50%;
+    margin: auto;
+}
+
+.likes{
+margin-top: 4rem;
+}
+
+.likes h2{
+    text-align: center;
+    font-size: 35px;
+}
+.love{
+    border: 5px solid blue;
+    border-radius: 4rem;
+    padding: 40px 20px 40px 70px;
+    font-size: 30px;
+    list-style-type: upper-roman;
+}
+.love li{
+    line-height: 33px;
+}
+#watch{
+    color: rgb(33, 7, 57);
+}
+#music{
+    color: rgb(37, 2, 70);
+    font-style: italic;
+}
+#dance{
+    font-weight: bolder;
+}
+#sing{
+    color: rgb(51, 11, 11);
+}
+.dislike{
+    border: 4px dotted peru;
+    border-radius: 4rem;
+    padding: 30px 20px 30px 70px;
+    font-size: 20px;
+}
+.dislike h2{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(66, 95, 8);
+}
+.dislike li{
+    line-height: 40px;
+    color: chartreuse;
+}
+#gossip{
+    font-style: oblique;
+    font-weight: 900;
+}
+#bully{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+#cheat{
+    font-weight: normal;
+    font-size: 30px;
+}
+#lie{
+    font-weight: 500;
+}
